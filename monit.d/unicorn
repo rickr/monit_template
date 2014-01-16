@@ -1,0 +1,4 @@
+check process unicorn with pidfile /home/app_dir/shared/pids/unicorn.pid
+
+#TODO
+# Start/Stop scripts
